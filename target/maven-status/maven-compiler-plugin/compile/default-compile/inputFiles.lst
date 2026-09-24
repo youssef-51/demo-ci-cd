@@ -1,0 +1,9 @@
+C:\Users\Pc\Desktop\perso2\AA51\crud-product\src\main\java\com\youssef\productms\controller\ProductController.java
+C:\Users\Pc\Desktop\perso2\AA51\crud-product\src\main\java\com\youssef\productms\dto\ProductRequest.java
+C:\Users\Pc\Desktop\perso2\AA51\crud-product\src\main\java\com\youssef\productms\dto\ProductResponse.java
+C:\Users\Pc\Desktop\perso2\AA51\crud-product\src\main\java\com\youssef\productms\exception\GlobalExceptionHandler.java
+C:\Users\Pc\Desktop\perso2\AA51\crud-product\src\main\java\com\youssef\productms\exception\ProductNotFoundException.java
+C:\Users\Pc\Desktop\perso2\AA51\crud-product\src\main\java\com\youssef\productms\model\Product.java
+C:\Users\Pc\Desktop\perso2\AA51\crud-product\src\main\java\com\youssef\productms\ProductManagementApplication.java
+C:\Users\Pc\Desktop\perso2\AA51\crud-product\src\main\java\com\youssef\productms\repository\ProductRepository.java
+C:\Users\Pc\Desktop\perso2\AA51\crud-product\src\main\java\com\youssef\productms\service\ProductService.java
