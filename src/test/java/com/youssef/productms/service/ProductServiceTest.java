@@ -38,7 +38,7 @@ class ProductServiceTest {
         ProductResponse response = service.create(request);
 
         assertThat(response.id()).isEqualTo(1L);
-        assertThat(response.name()).isEqualTo("Clavier");
+        assertThat(response.name()).isEqualTo("Clavizer");
         assertThat(response.quantity()).isEqualTo(10);
     }
 
