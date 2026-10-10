@@ -45,3 +45,4 @@ jobs:
 
       - name: Pousser l'image
         run: docker push ${{ secrets.DOCKERHUB_USERNAME }}/product-management --all-tags
+
